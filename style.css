@@ -13,7 +13,7 @@ body {
 	font-weight: bolder;
 }
 .blue{
-color: #4885ed;
+	color: #4885ed;
 }
 .red{
 	color: #db3236;
@@ -35,13 +35,13 @@ input{
 	border: none;
 }
 #btn{
-background-color: #ccc;
-color: #696969;
-width: 50%;
-padding: 10px;
-font-size: 1em;
-border:none;
-cursor: pointer;
+	background-color: #ccc;
+	color: #696969;
+	width: 50%;
+	padding: 10px;
+	font-size: 1em;
+	border:none;
+	cursor: pointer;
 }
 #btn:hover{
 	font-weight: bold;
